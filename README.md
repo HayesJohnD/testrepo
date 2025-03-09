@@ -1,5 +1,5 @@
 # testrepo
 
-## It's a Markdown File
+## Editing the file
 
-This repository is for my GitHub class.
+It's a markdown file in this repository.
