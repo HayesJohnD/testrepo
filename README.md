@@ -1,2 +1,2 @@
 # testrepo
-GitHub class repository
+This repository is for my GitHub class.
